@@ -1,0 +1,19 @@
+{
+  "name": "node-paperclip-resize-image",
+  "version": "1.0.0",
+  "description": "resize image task for node-paperclip",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ballantyne/node-paperclip-resize-image.git"
+  },
+  "author": "Scott Ballantyne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ballantyne/node-paperclip-resize-image/issues"
+  },
+  "homepage": "https://github.com/ballantyne/node-paperclip-resize-image#readme"
+}
