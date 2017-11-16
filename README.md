@@ -7,7 +7,7 @@ This is an npm module that allows node-paperclip to resize images.  It is one of
 To install 
 
 ```bash
-npm install node-paperclip-resize --save
+npm install node-paperclip-resize-image --save
 ```
 
 Here is an example of a model that uses these tasks the mongoose plugin. Also the styles are actually using both the resize and convert image tasks by default, but you can explicitly add them if you want.

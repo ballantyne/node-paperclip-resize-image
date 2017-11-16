@@ -19,5 +19,8 @@
   "dependencies": {
     "klass": "^1.4.1",
     "sharp": "^0.18.4"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
   }
 }
