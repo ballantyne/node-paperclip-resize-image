@@ -33,7 +33,8 @@ ProfileImage.plugin(Paperclip.plugins.mongoose, {
         { tiny:     { width: 50,  height: 50,  modifier: '#', task: ['resize-image', 'convert-image'] } },
         { 
           thumb:    { width: 100, height: 100, modifier: '#', task: [
-                        require('node-paperclip-resize-image'), require('node-paperclip-convert-image')
+                        require('node-paperclip-resize-image'), 
+                        require('node-paperclip-convert-image')
                       ] 
                     } 
         },
