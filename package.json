@@ -1,6 +1,6 @@
 {
   "name": "node-paperclip-resize-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "resize image task for node-paperclip",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ballantyne/node-paperclip-resize-image#readme",
   "dependencies": {
     "klass": "^1.4.1",
-    "sharp": "^0.18.4"
+    "sharp": "^0.21.0"
   },
   "devDependencies": {
     "mocha": "^4.0.1"
