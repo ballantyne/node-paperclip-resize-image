@@ -1,6 +1,6 @@
 {
   "name": "node-paperclip-resize-image",
-  "version": "1.0.1",
+  "version": "1.4.0",
   "description": "resize image task for node-paperclip",
   "main": "index.js",
   "scripts": {
